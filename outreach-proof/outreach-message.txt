@@ -1,0 +1,15 @@
+Subject: Student concept redesign for The Boulders Shopping Centre
+
+Hello The Boulders team,
+
+My name is Kabelo Mathapo, and I am an AI Software Engineering student at Melsoft Academy. As part of a company website redesign project, I selected The Boulders Shopping Centre and created an unofficial React and Tailwind CSS concept focused on making store discovery, trading information, events, and visit planning easier to use.
+
+This is a learning project and is not presented as an official website. I would appreciate the opportunity to share it with your team:
+
+Live concept: [ADD VERCEL LINK]
+GitHub repository: [ADD GITHUB LINK]
+
+Thank you for taking the time to view my work.
+
+Kind regards,
+Kabelo Mathapo

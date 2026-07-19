@@ -1,0 +1,58 @@
+export const events = [
+  {
+    id: 1,
+    title: 'Sunset Sessions',
+    category: 'Music',
+    schedule: 'Saturdays · 16:00–19:00',
+    location: 'Amphitheatre lawn',
+    description: 'A relaxed outdoor music programme designed for families, friends, and an easy Saturday wind-down.',
+    featured: true,
+  },
+  {
+    id: 2,
+    title: 'Piazza Makers Market',
+    category: 'Market',
+    schedule: 'Sundays · 09:00–14:00',
+    location: 'The Piazza',
+    description: 'A concept market featuring local food, craft, design, and small-business stalls from around Midrand.',
+    featured: true,
+  },
+  {
+    id: 3,
+    title: "Kids' Science Lab",
+    category: 'Family',
+    schedule: 'Selected school-holiday dates',
+    location: 'Level 1 activity zone',
+    description: 'Hands-on learning activities for younger visitors, built around simple experiments and creative play.',
+    featured: false,
+  },
+  {
+    id: 4,
+    title: 'Morning Wellness Walk',
+    category: 'Wellness',
+    schedule: 'First Saturday · 07:30',
+    location: 'Main entrance',
+    description: 'A low-pressure community walk followed by coffee and a short wellness session.',
+    featured: false,
+  },
+  {
+    id: 5,
+    title: 'Open-Air Film Night',
+    category: 'Film',
+    schedule: 'Last Friday · 18:30',
+    location: 'Amphitheatre lawn',
+    description: 'A family-friendly outdoor cinema concept with food offers from participating restaurants.',
+    featured: false,
+  },
+  {
+    id: 6,
+    title: 'Community Book Table',
+    category: 'Community',
+    schedule: 'Monthly · 11:00–13:00',
+    location: 'Central court',
+    description: 'A rotating author, reading, and book-exchange programme for the local community.',
+    featured: false,
+  },
+]
+
+export const eventCategories = ['All', ...new Set(events.map((event) => event.category))]
