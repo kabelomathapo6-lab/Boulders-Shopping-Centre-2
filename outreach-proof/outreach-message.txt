@@ -6,8 +6,8 @@ My name is Kabelo Mathapo, and I am an AI Software Engineering student at Melsof
 
 This is a learning project and is not presented as an official website. I would appreciate the opportunity to share it with your team:
 
-Live concept: [ADD VERCEL LINK]
-GitHub repository: [ADD GITHUB LINK]
+Live concept: https://boulders-shopping-centre-2.vercel.app/
+GitHub repository: https://github.com/kabelomathapo6-lab/Boulders-Shopping-Centre-2/
 
 Thank you for taking the time to view my work.
 
